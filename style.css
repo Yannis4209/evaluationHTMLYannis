@@ -1,0 +1,51 @@
+img{ 
+    width: 10000px;
+    height: 150px;
+}
+
+.conteneur{
+    display: flex;
+    border: 3px solid black;
+    text-align: left;
+}
+
+.element{
+    width: 500px;
+    height: 150px;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+#photoyannis{
+    height: 150px;
+    width: 100px;
+    border-radius: 300px;
+}
+
+h2{
+    font-size: 20px;
+    color: black;
+    margin-left: 50px;
+    float: left;
+}
+
+h3{
+    margin-left: 800px;
+    font-size: 20px;
+    color: black;
+}
+
+table {
+	width: 40%;
+	margin-left: 800px;
+	margin-bottom: 100px;
+	empty-cells: hide;
+}
+
+td  {
+	border : 2px solid black;
+	background: #293462;
+    color: white;
